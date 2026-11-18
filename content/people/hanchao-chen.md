@@ -6,6 +6,8 @@ status: current
 start: 2022-09
 photo: /images/people/hanchao-chen.jpg
 email: hanchaoc@uci.edu
+github: HanchaoChen
+orcid: 0009-0009-4706-884X
 projects: [ocean-turbulence]
 ---
 
